@@ -12,7 +12,7 @@ from .lolisafe import LolisafeAlbumExtractor
 from .. import text
 from urllib.parse import urlsplit, urlunsplit
 
-BASE_PATTERN = r"(?:https?://)?(?:app\.)?bunkr+\.(?:sk|[rs]u|la|is|to)"
+BASE_PATTERN = r"(?:https?://)?(?:app\.)?bunkr+\.(?:sk|[rs]u|la|is|to|red|black|site|cat|ac|media|ws)"
 
 MEDIA_DOMAIN_OVERRIDES = {
     "cdn9.bunkr.ru" : "c9.bunkr.ru",
