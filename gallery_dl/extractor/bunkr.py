@@ -18,6 +18,7 @@ MEDIA_DOMAIN_OVERRIDES = {
     "cdn9.bunkr.ru" : "c9.bunkr.ru",
     "cdn12.bunkr.ru": "media-files12.bunkr.la",
     "cdn-pizza.bunkr.ru": "pizza.bunkr.ru",
+    "cdn-taquito.bunkr.ru":"taquito.bunkr.ru",
 }
 
 CDN_HOSTED_EXTENSIONS = (
